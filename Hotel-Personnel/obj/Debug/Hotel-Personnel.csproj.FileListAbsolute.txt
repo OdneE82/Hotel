@@ -1,0 +1,16 @@
+C:\Users\odne\source\repos\Hotel-Personnel\bin\Debug\Hotel-Personnel.exe.config
+C:\Users\odne\source\repos\Hotel-Personnel\bin\Debug\Hotel-Personnel.exe
+C:\Users\odne\source\repos\Hotel-Personnel\bin\Debug\Hotel-Personnel.pdb
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel-Personnel.csproj.AssemblyReference.cache
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel-Personnel.csproj.SuggestedBindingRedirects.cache
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\MainWindow.g.cs
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\App.g.cs
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel-Personnel_MarkupCompile.cache
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel-Personnel_MarkupCompile.lref
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\MainWindow.baml
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel-Personnel.g.resources
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel_Personnel.Properties.Resources.resources
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel-Personnel.csproj.GenerateResource.cache
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel-Personnel.csproj.CoreCompileInputs.cache
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel-Personnel.exe
+C:\Users\odne\source\repos\Hotel-Personnel\obj\Debug\Hotel-Personnel.pdb

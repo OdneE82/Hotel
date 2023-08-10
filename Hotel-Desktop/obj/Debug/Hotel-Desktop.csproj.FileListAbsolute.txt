@@ -1,0 +1,11 @@
+C:\Users\odne\source\repos\Hotel-Desktop\bin\Debug\Hotel-Desktop.exe.config
+C:\Users\odne\source\repos\Hotel-Desktop\bin\Debug\Hotel-Desktop.exe
+C:\Users\odne\source\repos\Hotel-Desktop\bin\Debug\Hotel-Desktop.pdb
+C:\Users\odne\source\repos\Hotel-Desktop\obj\Debug\Hotel-Desktop.csproj.AssemblyReference.cache
+C:\Users\odne\source\repos\Hotel-Desktop\obj\Debug\Hotel-Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\odne\source\repos\Hotel-Desktop\obj\Debug\Hotel_Desktop.Properties.Resources.resources
+C:\Users\odne\source\repos\Hotel-Desktop\obj\Debug\Hotel_Desktop.ReservationForm.resources
+C:\Users\odne\source\repos\Hotel-Desktop\obj\Debug\Hotel-Desktop.csproj.GenerateResource.cache
+C:\Users\odne\source\repos\Hotel-Desktop\obj\Debug\Hotel-Desktop.csproj.CoreCompileInputs.cache
+C:\Users\odne\source\repos\Hotel-Desktop\obj\Debug\Hotel-Desktop.exe
+C:\Users\odne\source\repos\Hotel-Desktop\obj\Debug\Hotel-Desktop.pdb
